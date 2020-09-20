@@ -1,0 +1,1 @@
+<a href="http://boxy.pro/index.php/ru/post-ad"><img src="http://boxy.pro/uploads/banner/1.png" alt="Размести объявление"></a></br></br>

@@ -1,0 +1,1 @@
+<div class="top-bar"><a href="/index.php/ru/post-ad" style="padding: 10px;" class="btn btn-color"><i class="fa fa-paper-plane"></i> <?php echo lang_key('add_post'); ?></a></div>

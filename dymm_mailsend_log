@@ -1,0 +1,97 @@
+system/libraries/Email.php: _spool_email() 14.12.2016 02:15:53
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/admin/controllers/system_core.php:688]
+#2  System_core->test_email() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/admin/controllers/system_core.php:669]
+#3  System_core->debugemail()
+#4  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#5  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
+system/libraries/Email.php: _spool_email() 14.12.2016 03:05:48
+Array - 
+
+
+system/libraries/Email.php: _spool_email() 14.12.2016 03:18:08
+Array - 
+
+
+system/libraries/Email.php: _spool_email() 19.12.2016 17:00:48
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/account/controllers/account_core.php:872]
+#2  Account_core->send_confirmation_email() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/account/controllers/account_core.php:386]
+#3  Account_core->register()
+#4  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#5  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
+system/libraries/Email.php: _spool_email() 06.01.2017 17:46:27
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/account/controllers/account_core.php:1129]
+#2  Account_core->_send_recovery_email() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/account/controllers/account_core.php:1000]
+#3  Account_core->recoverpassword()
+#4  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#5  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
+system/libraries/Email.php: _spool_email() 08.01.2017 16:40:36
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:107]
+#2  User_core->new_ad()
+#3  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#4  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
+system/libraries/Email.php: _spool_email() 08.01.2017 16:40:45
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:107]
+#2  User_core->new_ad()
+#3  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#4  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
+system/libraries/Email.php: _spool_email() 08.01.2017 16:41:01
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:106]
+#2  User_core->new_ad()
+#3  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#4  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
+system/libraries/Email.php: _spool_email() 08.01.2017 16:50:56
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/account/controllers/account_core.php:872]
+#2  Account_core->send_confirmation_email() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/account/controllers/account_core.php:386]
+#3  Account_core->register()
+#4  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#5  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
+system/libraries/Email.php: _spool_email() 08.01.2017 18:25:19
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:200]
+#2  User_core->send_confirmation_email() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:94]
+#3  User_core->after_post_creation() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:372]
+#4  User_core->create_ad()
+#5  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#6  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
+system/libraries/Email.php: _spool_email() 08.01.2017 19:04:08
+Array - 
+#0  CI_Email->_spool_email() called at [/var/www/u0233858/data/www/isra-go.com/system/libraries/Email.php:1370]
+#1  CI_Email->send() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:208]
+#2  User_core->send_confirmation_email() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:105]
+#3  User_core->after_post_creation() called at [/var/www/u0233858/data/www/isra-go.com/application/modules/user/controllers/user_core.php:380]
+#4  User_core->create_ad()
+#5  call_user_func_array() called at [/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php:677]
+#6  require_once(/var/www/u0233858/data/www/isra-go.com/system/core/CodeIgniter.php) called at [/var/www/u0233858/data/www/isra-go.com/index.php:431]
+
+
